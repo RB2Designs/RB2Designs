@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RB^2 Designs
+title: RB2 Designs
 subtitle: Custom 3D printing products
 gh-repo: daattali/beautiful-jekyll
 gh-badge:
