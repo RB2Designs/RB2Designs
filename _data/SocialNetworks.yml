@@ -33,7 +33,7 @@ google-plus:
 
 email:
   name: "Email me"
-  baseURL: "mailto:rb2@shaw.ca"
+  baseURL: "mailto:"
   icon: "fa-envelope"
 
 linkedin:
