@@ -4,8 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://username.github.io"
-baseurl: ""
+url: "http://rb2designs.github.io"
+baseurl: "rb2designs"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -23,7 +23,7 @@ description: Custom 3D printed products.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About RB2: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -73,9 +73,9 @@ author:
 social-network-links:
   rss: true
   email: "rb2@shaw.ca"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  facebook:
+  github:
+  twitter:
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
