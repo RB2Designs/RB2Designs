@@ -1,8 +1,10 @@
 ---
 layout: post
-title: RB2 Designs
+title: What can we design and print for you?
 image: /img/hello_world.jpeg
 tags: [random, exciting-stuff]
 ---
 
-This is my first post, how exciting!
+Intricate 3D models an be printed in hard plastic or flexible rubber. For a quote and description of what we can do for you, contact us through: 
+
+RB2@shaw.ca
