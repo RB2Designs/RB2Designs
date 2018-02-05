@@ -12,4 +12,3 @@ Have your model designed to be professionally 3D printed.
 ![picture3](https://github.com/RB2Designs/RB2Designs.github.io/blob/master/img/img3.jpg)
 
 ![picture4](https://github.com/RB2Designs/RB2Designs.github.io/blob/master/img/img4.jpg)
-
