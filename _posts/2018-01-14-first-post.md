@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What can we design and print for you?
-image: img/hello_world.jpeg
+image: img/IMG_20180210_185818.jpg
 ---
 
 Intricate 3D models can be printed in hard plastic or flexible rubber. 
