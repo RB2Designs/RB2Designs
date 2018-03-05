@@ -103,7 +103,7 @@ url-pretty: "RB<sup>2</sup> Designs Website"  # eg. "deanattali.com/beautiful-je
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-115102448-1"
 
 # Google Tag Manager ID
 #gtm: ""
