@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What can we design and print for you?
 image: img/IMG_20180210_185818 (1).jpg
 show-avatar: false
